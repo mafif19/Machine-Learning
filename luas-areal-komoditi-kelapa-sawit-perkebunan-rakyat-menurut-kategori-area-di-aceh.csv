@@ -1,0 +1,277 @@
+kemendagri_kode_provinsi;kemendagri_nama_provinsi;kemendagri_kode_kabupaten_kota;kemendagri_nama_kabupaten_kota;tahun;kategori_area;luas_areal;satuan
+11;Aceh;11.01;Kabupaten Aceh Selatan;2017;Tanaman belum menghasilkan;2012;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2017;Tanaman belum menghasilkan;735;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2017;Tanaman belum menghasilkan;11066.5;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2017;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2017;Tanaman belum menghasilkan;4065.9;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2017;Tanaman belum menghasilkan;1075;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2017;Tanaman belum menghasilkan;38;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2017;Tanaman belum menghasilkan;3173;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2017;Tanaman belum menghasilkan;1608;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2017;Tanaman belum menghasilkan;5525;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2017;Tanaman belum menghasilkan;2116;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2017;Tanaman belum menghasilkan;1651;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2017;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2017;Tanaman belum menghasilkan;5338;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2017;Tanaman belum menghasilkan;9443.64;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2017;Tanaman belum menghasilkan;3654;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2017;Tanaman belum menghasilkan;828;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2017;Tanaman belum menghasilkan;417.5;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2017;Tanaman belum menghasilkan;;Hektare
+11;Aceh;11.72;Kota Sabang;2017;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2017;Tanaman belum menghasilkan;103;Hektare
+11;Aceh;11.74;Kota Langsa;2017;Tanaman belum menghasilkan;8;Hektare
+11;Aceh;11.75;Kota Subulussalam;2017;Tanaman belum menghasilkan;7301;Hektare
+11;Aceh;11.01;Kabupaten Aceh Selatan;2017;Tanaman menghasilkan;8078;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2017;Tanaman menghasilkan;1663;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2017;Tanaman menghasilkan;13384.5;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2017;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2017;Tanaman menghasilkan;4671.4;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2017;Tanaman menghasilkan;507;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2017;Tanaman menghasilkan;30;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2017;Tanaman menghasilkan;12360;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2017;Tanaman menghasilkan;1645;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2017;Tanaman menghasilkan;22741;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2017;Tanaman menghasilkan;1891;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2017;Tanaman menghasilkan;16740;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2017;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2017;Tanaman menghasilkan;6770;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2017;Tanaman menghasilkan;36568.8;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2017;Tanaman menghasilkan;16454;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2017;Tanaman menghasilkan;80;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2017;Tanaman menghasilkan;319;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2017;Tanaman menghasilkan;;Hektare
+11;Aceh;11.72;Kota Sabang;2017;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2017;Tanaman menghasilkan;105;Hektare
+11;Aceh;11.74;Kota Langsa;2017;Tanaman menghasilkan;400;Hektare
+11;Aceh;11.75;Kota Subulussalam;2017;Tanaman menghasilkan;11145;Hektare
+11;Aceh;11.01;Kabupaten Aceh Selatan;2017;Tanaman rusak;131;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2017;Tanaman rusak;8;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2017;Tanaman rusak;1546;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2017;Tanaman rusak;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2017;Tanaman rusak;404;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2017;Tanaman rusak;82;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2017;Tanaman rusak;32;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2017;Tanaman rusak;2652;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2017;Tanaman rusak;560;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2017;Tanaman rusak;3910;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2017;Tanaman rusak;135;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2017;Tanaman rusak;531;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2017;Tanaman rusak;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2017;Tanaman rusak;2517;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2017;Tanaman rusak;4651.72;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2017;Tanaman rusak;948;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2017;Tanaman rusak;392;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2017;Tanaman rusak;9.5;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2017;Tanaman rusak;;Hektare
+11;Aceh;11.72;Kota Sabang;2017;Tanaman rusak;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2017;Tanaman rusak;0;Hektare
+11;Aceh;11.74;Kota Langsa;2017;Tanaman rusak;1.5;Hektare
+11;Aceh;11.75;Kota Subulussalam;2017;Tanaman rusak;257;Hektare
+11;Aceh;11.01;Kabupaten Aceh Selatan;2018;Tanaman belum menghasilkan;976;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2018;Tanaman belum menghasilkan;727;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2018;Tanaman belum menghasilkan;11260;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2018;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2018;Tanaman belum menghasilkan;4355.9;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2018;Tanaman belum menghasilkan;1069;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2018;Tanaman belum menghasilkan;38;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2018;Tanaman belum menghasilkan;3148;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2018;Tanaman belum menghasilkan;1608;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2018;Tanaman belum menghasilkan;5681.6;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2018;Tanaman belum menghasilkan;2085;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2018;Tanaman belum menghasilkan;1651;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2018;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2018;Tanaman belum menghasilkan;4885;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2018;Tanaman belum menghasilkan;10524.94;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2018;Tanaman belum menghasilkan;3680;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2018;Tanaman belum menghasilkan;728;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2018;Tanaman belum menghasilkan;419;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2018;Tanaman belum menghasilkan;;Hektare
+11;Aceh;11.72;Kota Sabang;2018;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2018;Tanaman belum menghasilkan;100;Hektare
+11;Aceh;11.74;Kota Langsa;2018;Tanaman belum menghasilkan;2;Hektare
+11;Aceh;11.75;Kota Subulussalam;2018;Tanaman belum menghasilkan;7570;Hektare
+11;Aceh;11.01;Kabupaten Aceh Selatan;2018;Tanaman menghasilkan;9446;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2018;Tanaman menghasilkan;1702;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2018;Tanaman menghasilkan;13376;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2018;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2018;Tanaman menghasilkan;4740.4;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2018;Tanaman menghasilkan;511;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2018;Tanaman menghasilkan;30;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2018;Tanaman menghasilkan;12430;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2018;Tanaman menghasilkan;1645;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2018;Tanaman menghasilkan;22766.6;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2018;Tanaman menghasilkan;1920;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2018;Tanaman menghasilkan;16740;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2018;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2018;Tanaman menghasilkan;7887;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2018;Tanaman menghasilkan;36414.8;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2018;Tanaman menghasilkan;16510;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2018;Tanaman menghasilkan;180;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2018;Tanaman menghasilkan;333.5;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2018;Tanaman menghasilkan;;Hektare
+11;Aceh;11.72;Kota Sabang;2018;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2018;Tanaman menghasilkan;108;Hektare
+11;Aceh;11.74;Kota Langsa;2018;Tanaman menghasilkan;406;Hektare
+11;Aceh;11.75;Kota Subulussalam;2018;Tanaman menghasilkan;11145;Hektare
+11;Aceh;11.01;Kabupaten Aceh Selatan;2018;Tanaman rusak;156;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2018;Tanaman rusak;229;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2018;Tanaman rusak;1541;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2018;Tanaman rusak;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2018;Tanaman rusak;397;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2018;Tanaman rusak;84;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2018;Tanaman rusak;32;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2018;Tanaman rusak;2607;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2018;Tanaman rusak;560;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2018;Tanaman rusak;3897.6;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2018;Tanaman rusak;139;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2018;Tanaman rusak;531;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2018;Tanaman rusak;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2018;Tanaman rusak;2552;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2018;Tanaman rusak;4626.23;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2018;Tanaman rusak;955;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2018;Tanaman rusak;392;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2018;Tanaman rusak;9.5;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2018;Tanaman rusak;;Hektare
+11;Aceh;11.72;Kota Sabang;2018;Tanaman rusak;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2018;Tanaman rusak;0;Hektare
+11;Aceh;11.74;Kota Langsa;2018;Tanaman rusak;4;Hektare
+11;Aceh;11.75;Kota Subulussalam;2018;Tanaman rusak;257;Hektare
+11;Aceh;11.01;Kabupaten Aceh Selatan;2019;Tanaman belum menghasilkan;1175;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2019;Tanaman belum menghasilkan;727;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2019;Tanaman belum menghasilkan;11290;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2019;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2019;Tanaman belum menghasilkan;4679.86;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2019;Tanaman belum menghasilkan;888;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2019;Tanaman belum menghasilkan;38;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2019;Tanaman belum menghasilkan;4509;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2019;Tanaman belum menghasilkan;1447;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2019;Tanaman belum menghasilkan;5698;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2019;Tanaman belum menghasilkan;2085;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2019;Tanaman belum menghasilkan;1940.71;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2019;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2019;Tanaman belum menghasilkan;5130;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2019;Tanaman belum menghasilkan;10780.12;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2019;Tanaman belum menghasilkan;2962;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2019;Tanaman belum menghasilkan;700;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2019;Tanaman belum menghasilkan;412;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2019;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.72;Kota Sabang;2019;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2019;Tanaman belum menghasilkan;97;Hektare
+11;Aceh;11.74;Kota Langsa;2019;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.75;Kota Subulussalam;2019;Tanaman belum menghasilkan;6901;Hektare
+11;Aceh;11.01;Kabupaten Aceh Selatan;2019;Tanaman menghasilkan;10006;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2019;Tanaman menghasilkan;1702;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2019;Tanaman menghasilkan;13476;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2019;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2019;Tanaman menghasilkan;4738.4;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2019;Tanaman menghasilkan;633;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2019;Tanaman menghasilkan;27;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2019;Tanaman menghasilkan;12430;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2019;Tanaman menghasilkan;1663;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2019;Tanaman menghasilkan;22778.6;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2019;Tanaman menghasilkan;1920;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2019;Tanaman menghasilkan;16740;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2019;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2019;Tanaman menghasilkan;7842;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2019;Tanaman menghasilkan;37271.58;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2019;Tanaman menghasilkan;17467;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2019;Tanaman menghasilkan;208;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2019;Tanaman menghasilkan;350;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2019;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.72;Kota Sabang;2019;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2019;Tanaman menghasilkan;111;Hektare
+11;Aceh;11.74;Kota Langsa;2019;Tanaman menghasilkan;387;Hektare
+11;Aceh;11.75;Kota Subulussalam;2019;Tanaman menghasilkan;11878;Hektare
+11;Aceh;11.01;Kabupaten Aceh Selatan;2019;Tanaman rusak;207;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2019;Tanaman rusak;229;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2019;Tanaman rusak;1541;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2019;Tanaman rusak;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2019;Tanaman rusak;539.53;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2019;Tanaman rusak;156;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2019;Tanaman rusak;35;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2019;Tanaman rusak;1246;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2019;Tanaman rusak;609;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2019;Tanaman rusak;3905.6;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2019;Tanaman rusak;134;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2019;Tanaman rusak;531;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2019;Tanaman rusak;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2019;Tanaman rusak;2692;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2019;Tanaman rusak;4093.52;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2019;Tanaman rusak;740;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2019;Tanaman rusak;392;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2019;Tanaman rusak;9.5;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2019;Tanaman rusak;0;Hektare
+11;Aceh;11.72;Kota Sabang;2019;Tanaman rusak;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2019;Tanaman rusak;0;Hektare
+11;Aceh;11.74;Kota Langsa;2019;Tanaman rusak;3;Hektare
+11;Aceh;11.75;Kota Subulussalam;2019;Tanaman rusak;214;Hektare
+11;Aceh;11.01;Kabupaten Aceh Selatan;2020;Tanaman belum menghasilkan;1187;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2020;Tanaman belum menghasilkan;601;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2020;Tanaman belum menghasilkan;11396;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2020;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2020;Tanaman belum menghasilkan;5614.32;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2020;Tanaman belum menghasilkan;845;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2020;Tanaman belum menghasilkan;13;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2020;Tanaman belum menghasilkan;4729;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2020;Tanaman belum menghasilkan;1276;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2020;Tanaman belum menghasilkan;6413;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2020;Tanaman belum menghasilkan;2076;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2020;Tanaman belum menghasilkan;1733.19;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2020;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2020;Tanaman belum menghasilkan;4906;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2020;Tanaman belum menghasilkan;10780.12;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2020;Tanaman belum menghasilkan;3121;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2020;Tanaman belum menghasilkan;575;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2020;Tanaman belum menghasilkan;412.5;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2020;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.72;Kota Sabang;2020;Tanaman belum menghasilkan;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2020;Tanaman belum menghasilkan;93;Hektare
+11;Aceh;11.74;Kota Langsa;2020;Tanaman belum menghasilkan;1.62;Hektare
+11;Aceh;11.75;Kota Subulussalam;2020;Tanaman belum menghasilkan;7250;Hektare
+11;Aceh;11.01;Kabupaten Aceh Selatan;2020;Tanaman menghasilkan;9992;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2020;Tanaman menghasilkan;1828;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2020;Tanaman menghasilkan;13425;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2020;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2020;Tanaman menghasilkan;4725.4;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2020;Tanaman menghasilkan;654.5;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2020;Tanaman menghasilkan;32;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2020;Tanaman menghasilkan;12430;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2020;Tanaman menghasilkan;1211;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2020;Tanaman menghasilkan;22771.1;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2020;Tanaman menghasilkan;1920;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2020;Tanaman menghasilkan;17208.5;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2020;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2020;Tanaman menghasilkan;8132;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2020;Tanaman menghasilkan;37271.58;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2020;Tanaman menghasilkan;17845;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2020;Tanaman menghasilkan;333;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2020;Tanaman menghasilkan;360.5;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2020;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.72;Kota Sabang;2020;Tanaman menghasilkan;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2020;Tanaman menghasilkan;116;Hektare
+11;Aceh;11.74;Kota Langsa;2020;Tanaman menghasilkan;374;Hektare
+11;Aceh;11.75;Kota Subulussalam;2020;Tanaman menghasilkan;11529;Hektare
+11;Aceh;11.01;Kabupaten Aceh Selatan;2020;Tanaman rusak;227;Hektare
+11;Aceh;11.02;Kabupaten Aceh Tenggara;2020;Tanaman rusak;229;Hektare
+11;Aceh;11.03;Kabupaten Aceh Timur;2020;Tanaman rusak;1536;Hektare
+11;Aceh;11.04;Kabupaten Aceh Tengah;2020;Tanaman rusak;0;Hektare
+11;Aceh;11.05;Kabupaten Aceh Barat;2020;Tanaman rusak;523.12;Hektare
+11;Aceh;11.06;Kabupaten Aceh Besar;2020;Tanaman rusak;177.5;Hektare
+11;Aceh;11.07;Kabupaten Pidie;2020;Tanaman rusak;47;Hektare
+11;Aceh;11.08;Kabupaten Aceh Utara;2020;Tanaman rusak;1026;Hektare
+11;Aceh;11.09;Kabupaten Simeulue;2020;Tanaman rusak;1232;Hektare
+11;Aceh;11.1;Kabupaten Aceh Singkil;2020;Tanaman rusak;3268;Hektare
+11;Aceh;11.11;Kabupaten Bireuen;2020;Tanaman rusak;134;Hektare
+11;Aceh;11.12;Kabupaten Aceh Barat Daya;2020;Tanaman rusak;536;Hektare
+11;Aceh;11.13;Kabupaten Gayo Lues;2020;Tanaman rusak;0;Hektare
+11;Aceh;11.14;Kabupaten Aceh Jaya;2020;Tanaman rusak;2992;Hektare
+11;Aceh;11.15;Kabupaten Nagan Raya;2020;Tanaman rusak;4093.52;Hektare
+11;Aceh;11.16;Kabupaten Aceh Tamiang;2020;Tanaman rusak;990;Hektare
+11;Aceh;11.17;Kabupaten Bener Meriah;2020;Tanaman rusak;392;Hektare
+11;Aceh;11.18;Kabupaten Pidie Jaya;2020;Tanaman rusak;10.5;Hektare
+11;Aceh;11.71;Kota Banda Aceh;2020;Tanaman rusak;0;Hektare
+11;Aceh;11.72;Kota Sabang;2020;Tanaman rusak;0;Hektare
+11;Aceh;11.73;Kota Lhokseumawe;2020;Tanaman rusak;0;Hektare
+11;Aceh;11.74;Kota Langsa;2020;Tanaman rusak;10;Hektare
+11;Aceh;11.75;Kota Subulussalam;2020;Tanaman rusak;214;Hektare
